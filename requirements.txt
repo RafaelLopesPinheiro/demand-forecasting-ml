@@ -1,0 +1,35 @@
+# Core
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Statistical Models
+statsmodels==0.14.0
+pmdarima==2.0.3
+
+# Machine Learning
+scikit-learn==1.3.0
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2
+
+# Deep Learning
+torch==2.0.1
+pytorch-lightning==2.0.6
+pytorch-forecasting==1.0.0
+
+# Feature Engineering
+holidays==0.29
+
+# Utils
+pyyaml==6.0.1
+joblib==1.3.1
+tqdm==4.65.0
+
+# Logging
+loguru==0.7.0
